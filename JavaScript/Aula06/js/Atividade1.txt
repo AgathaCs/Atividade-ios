@@ -1,0 +1,6 @@
+A)O que é um objeto?
+R: Para mim a definição de objeto é algo material que pode percebe-se pelos sentidos.
+
+
+B)O que é um método no JavaScript?
+R:Um método no JavaScript é praticamente em um código, que pode ser chamado pelo nome de seu objeto e seu nome de método usando a notação de ponto ou a notação de colchetes. 
