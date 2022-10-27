@@ -23,7 +23,7 @@ section.style.borderBottom = 'solid 3px #000';
 // Criar um elemento <p>
 let p = document.createElement('P');
 p.innerHTML = 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores autem quaerat dignissimos in consectetur saepe et nemo minus, eveniet nesciunt at voluptatem quis ut dolorem magni repellat impedit tenetur rem.';
-section.body.appendChild(p);
+p.body.appendChild(p);
 p.style.borderBottom = 'solid 3px #000';
 
 // Criar um elemento <article>
